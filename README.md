@@ -1,4 +1,4 @@
-﻿# Project Title
+﻿# hhmmm.com
 
 hhmmm.com is a recipe management site that allows users to create, share, and store recipes. hhmmm.com I will be created using Angular4 and Golang. Following are some features of hhmmm.com
 
